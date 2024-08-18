@@ -38,5 +38,6 @@
 git init
 git add .
 git commit -m "Initial commit with project setup and instructions"
-git remote add origin https://github.com/gadhepatil7/icustomer_test
+git branch -M main
+git remote add origin https://github.com/gadhepatil7/demyst_test.git
 git push -u origin master
