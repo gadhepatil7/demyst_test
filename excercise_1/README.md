@@ -34,3 +34,9 @@
 
 - Any language, any platform
 - One of the above problems or both, if you feel like it.
+
+git init
+git add .
+git commit -m "Initial commit with project setup and instructions"
+git remote add origin https://github.com/gadhepatil7/icustomer_test
+git push -u origin master
